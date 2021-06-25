@@ -10,7 +10,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 - 📍 From SP living in São José do Rio Preto
 - 💻 Full-Stack Apprentice - [Sujeito Programador](https://www.instagram.com/sujeitoprogramador/)
-- 🌈 Sharing a little of my Front-End journey at [gabriel_z3n_](https://www.instagram.com/gabriel_z3n_/) 
+- 🌈 Sharing a little of my Full-Stack journey at [gabriel_z3n_](https://www.instagram.com/gabriel_z3n_/) 
 
 Reach me out 👇🏼
 
