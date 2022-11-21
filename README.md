@@ -9,7 +9,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
 - 📍 From SP living in São José do Rio Preto
-- 💻 Full-Stack Apprentice - [Curso em vídeo](https://www.cursoemvideo.com)
+- 💻 Apprentice - [Curso em vídeo](https://www.cursoemvideo.com)
 - 🌈 Sharing a little of my Full-Stack journey at [gabriel_nzro](https://www.instagram.com/gabriel_nzro) 
 
 Reach me out 👇🏼
