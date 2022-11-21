@@ -2,7 +2,7 @@
 
 My name is Gabriel de Assis Adão 👨‍💻BR
 
-I'm a Developer, that has been studingas a Full-Stack developer since 2020.  💻
+I'm a Developer, that has been studing a Full-Stack developer since 2020.  💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
